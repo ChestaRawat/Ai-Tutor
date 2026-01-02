@@ -76,10 +76,7 @@ Replace the API key in the script:
 
 api_key = "YOUR_OPENROUTER_API_KEY"
 
-
-⚠️ Do not upload your API key to GitHub.
-
-How to Run
+**How to Run**
 Step 1: Extract Text and Create Chunks
 python pdf_to_chunks.py
 
